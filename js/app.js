@@ -14,7 +14,7 @@ $(document).ready(function () {
 		var j ="";
 		if(a['current']['is_day']==0){
 			j=" Night";
-			$("body").css("background-image","url(http://img1.mxstatic.com/wallpapers/27555fdf69f74e30d639dffb43fbd06d_large.jpeg)");
+			$("body").css("background-image","url(http://www.filsantejeunes.com/wp-content/uploads/2005/05/dangers-nuit.jpg)");
 		}else{
 			j=" Day";
 			$("body").css("background-image","url(http://antoine.vernois.net/blog/public/2011.06_-_canada/2011.06.16/2011.06.16-0032-jour10.jpg)");
